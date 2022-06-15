@@ -369,6 +369,7 @@ input, textarea {
 }
 
 .online-contact p {
+    padding: 0.3rem 0;
     text-align: start;
 }
 
